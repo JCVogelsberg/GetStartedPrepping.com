@@ -15,7 +15,8 @@ Version:        0.1.0
 
 
 #header-container {
-    background-image: url("http://farm6.staticflickr.com/5145/5637645692_ea7c9ee7bc.jpg");
+    /*background-image: url("http://farm6.staticflickr.com/5145/5637645692_ea7c9ee7bc.jpg");*/
+    background-image: url("../../uploads/2016/07/header_bg.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
