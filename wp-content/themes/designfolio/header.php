@@ -9,8 +9,10 @@
 
 <meta name="viewport" content="width=device-width">
 
-<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="screen" />
 <?php wp_head(); ?>
+
+<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="screen" />
+
 </head>
 
 <body <?php body_class(PC_THEME_NAME_SLUG) ?>>
