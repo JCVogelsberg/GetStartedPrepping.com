@@ -1,0 +1,15 @@
+/*
+Theme Name:     My Designfolio Child Theme
+Theme URI:      http: //www.presscoders.com/designfolio
+Description:    Child theme for the Designfolio theme
+Author:         J. Vogelsberg
+Author URI:     http: //www.presscoders.com/
+Template:       designfolio
+Version:        0.1.0
+*/
+
+@import url("../designfolio/style.css");
+
+/* Add your custom css below this line */
+
+
