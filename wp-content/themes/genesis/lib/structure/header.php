@@ -81,7 +81,7 @@ function genesis_do_title() {
 	}
 
 	echo '<title>';
-	wp_title( 'splorge' );
+	wp_title( '' );
 	echo '</title>';
 
 }
