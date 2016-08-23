@@ -115,11 +115,7 @@ function genesis_sample_comments_gravatar( $args ) {
 
 }
 
-//* Remove the Post Meta
-remove_action( 'genesis_entry_footer', 'genesis_post_meta' );
 
-//* Add post meta
-add_action( 'genesis_entry_header', 'genesis_post_meta', 20 );
 
 
 
